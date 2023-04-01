@@ -5,9 +5,9 @@ import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-sender_mail = "greejolly@gmail.com"
-sender_password = "xqirehabrrbknemr"
-receiver_mail = "lawnless@protonmail.com"
+sender_mail = "enter your sender mail here"
+sender_password = "enter your password here"
+receiver_mail = "which mail address receive mails? enter here"
 content_string = ""
 
 content_string += "Here is the latest Hacker News:\n<br>"
